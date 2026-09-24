@@ -1,0 +1,5 @@
+pa = input("enter physical attribute")
+wt = input("enter weird texture")
+sn = input ("enter strange noise")
+much = input("enter made-up creature name")
+print("behold!The", wt + "-" + pa +"ed", much ,"makes a terrifying*"+ sn +"* as it shuffles closer!")
